@@ -2,7 +2,7 @@
 
 A fast, resumable downloader for Coppermine Photo Galleries.
 
-CopperKeep is the 2026 rebuild of the classic "long-live" scraper — fixed for modern gallery themes, with a proper cache and resume system.
+CopperKeep is a Scrapper to Download Images for Coppermine Photo Galleries. Fixed for modern gallery themes, with a proper cache and resume system.
 
 ![Python](https://img.shields.io/badge/python-3.10+-blue) ![License](https://img.shields.io/badge/license-MIT-green)
 
