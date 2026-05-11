@@ -23,7 +23,7 @@ python src/gui.py
 
 Paste a Coppermine URL like:
 ```
-https://emmastoneweb.com/gallery/
+https://XYZ.com/gallery/
 ```
 
 ## Build Windows EXE
